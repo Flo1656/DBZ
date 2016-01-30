@@ -29,6 +29,9 @@ class View {
       <body>
         <img src='Fichiers/images/logo.jpg' /><br /><hr />
         </hr>".$contener."
+        <A> Insérer une base de données </a> 
+        <a> Supprimer une base de données </a>
+        <a> Naviguer dans l'ocurence d'une base de donénes </a>
       </body>
       </html>";
     }
