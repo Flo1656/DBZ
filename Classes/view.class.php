@@ -29,10 +29,12 @@ class View {
       <body>
         <img src='Fichiers/images/logo.jpg' /><br /><hr />
         </hr>".$contener."
+        <div>
         <a> Trouver une base de données </a>
         <a> Rechercher des occurences </a>
         <a> Ajouter une occurences </a>
         <a> Ajouter une base de données </a>
+        </div>
       </body>
       </html>";
     }
