@@ -33,6 +33,7 @@ class View {
         <a> Ajouter une base de données </a>
         <a> Rechercher des occurences </a>
         <a> Ajouter une occurences </a>
+        <a> Rechercher 
       </body>
       </html>";
     }
