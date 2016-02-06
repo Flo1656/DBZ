@@ -29,19 +29,27 @@ class View {
       <body>
         <img src='Fichiers/images/logo.jpg' /><br /><hr />
         </hr>".$contener."
-        <div>
+        <title> RECHERCHE ET AJOUTER </title>
+        <div id=Recherche>
           <a> Trouver une base de données </a>
           <a> Rechercher des occurences </a>
           <a> Ajouter une occurences </a>
           <a> Ajouter une base de données </a>
         </div>
-        <div>
+        <div id=Liste>
           <a> Liste de la base de données </a>
             <a> Fruity Land </a>
             <a> Moumout </a>
             <a> Logement </a>
             <a> Hopital </a>
          </div> 
+		 <div id=Inscription>
+			<title> Inscrivez-vous ! </title>
+				<a> Nom </a>
+				<a> Prénom </a>
+				<a> Adresse </a>
+				<a> Téléphone </a>
+		</div>
       </body>
       </html>";
     }
