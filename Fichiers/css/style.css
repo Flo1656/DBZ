@@ -1,3 +1,14 @@
 div{
   border-radius:30px;
 }
+
+a{
+	font-family:Century Gothic;
+	color:#FF7F50;
+	background-color:red;
+}
+
+title{
+	font-family:Arial Black;
+	color:#C03000;
+}
