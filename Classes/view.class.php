@@ -29,7 +29,7 @@ class View {
       <body>
         <img src='Fichiers/images/logo.jpg' /><br /><hr />
         </hr>".$contener."
-        <title> RECHERCHE ET AJOUTER </title>
+  <title> RECHERCHE ET AJOUTER </title>
         <div id=Recherche>
           <a> Trouver une base de données </a>
           <a> Rechercher des occurences </a>
@@ -49,7 +49,7 @@ class View {
 				<a> Prénom </a>
 				<a> Adresse </a>
 				<a> Téléphone </a>
-		</div>
+		</div> 
       </body>
       </html>";
     }
